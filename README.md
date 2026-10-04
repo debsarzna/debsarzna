@@ -1,5 +1,4 @@
-##ProTrack
-
+###ProTrack
 A desktop inventory and employee management app built with PyQt6 and SQLite. ProTrack lets you sign in, manage your product stock, manage the employees who can access the system, and keep an eye on everything through a live dashboard with a recent-activity feed.
 
 <!--
